@@ -1,0 +1,135 @@
+[25-Apr-2025 10:25:55 UTC] İzin oluşturulamadı: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`permissions`.`description` at row 1
+[25-Apr-2025 10:25:55 UTC] İzin oluşturulamadı: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB0zin ...' for column `kortekgsmdatalog_tclkalibrasyon`.`permissions`.`description` at row 1
+[25-Apr-2025 10:25:55 UTC] İzin oluşturulamadı: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1 g\xC3\xB6...' for column `kortekgsmdatalog_tclkalibrasyon`.`permissions`.`description` at row 1
+[25-Apr-2025 10:32:44 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:32:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:32:44 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:32:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:32:44 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:32:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:33:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kortekgsmdatalog/public_html/tcl/includes/header.php:34) in /home/kortekgsmdatalog/public_html/tcl/add_user.php on line 51
+[25-Apr-2025 10:33:36 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:33:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:33:36 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:33:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:33:36 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:33:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:33:40 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:33:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:33:40 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:33:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:33:40 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:33:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:33:42 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:33:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:33:42 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:33:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:33:42 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:33:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:35:19 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:35:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:35:19 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:35:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:35:19 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:35:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:35:49 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:35:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:35:49 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:35:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:35:49 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:35:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:35:55 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 10:35:55 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 10:35:55 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 10:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 11:58:57 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 11:58:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 11:58:57 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 11:58:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 11:58:57 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 11:58:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 11:59:27 UTC] Alt kategori oluşturulamadı: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kortekgsmdatalog_tclkalibrasyon.subcategories' doesn't exist
+[25-Apr-2025 11:59:35 UTC] Alt kategori oluşturulamadı: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kortekgsmdatalog_tclkalibrasyon.subcategories' doesn't exist
+[25-Apr-2025 11:59:46 UTC] Alt kategori oluşturulamadı: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kortekgsmdatalog_tclkalibrasyon.subcategories' doesn't exist
+[25-Apr-2025 12:02:34 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:02:41 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:03:20 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kortekgsmdatalog/public_html/tcl/includes/header.php:34) in /home/kortekgsmdatalog/public_html/tcl/upload_document.php on line 94
+[25-Apr-2025 12:03:35 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:03:37 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:03:45 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:03:52 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:03:57 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:04:33 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:04:34 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:04:37 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:04:40 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:30:04 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:30:04 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:30:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:30:04 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:30:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:30:04 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:30:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:31:51 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:31:51 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:31:51 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:31:55 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:32:01 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:32:11 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:34:34 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:34:34 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:34:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:34:34 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:34:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:34:34 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:34:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:34:42 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:34:49 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:34:50 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:34:52 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:34:52 UTC] PHP Warning:  Undefined variable $isPopup in /home/kortekgsmdatalog/public_html/tcl/view_document.php on line 31
+[25-Apr-2025 12:34:56 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 23
+[25-Apr-2025 12:34:56 UTC] PHP Warning:  readfile(temp/680b817057d85_Nazli_Turkel_ICMJE.pdf.pdf): Failed to open stream: No such file or directory in /home/kortekgsmdatalog/public_html/tcl/download_document.php on line 96
+[25-Apr-2025 12:34:58 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:35:12 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[25-Apr-2025 12:35:12 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:35:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[25-Apr-2025 12:35:12 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:35:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[25-Apr-2025 12:35:12 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[25-Apr-2025 12:35:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[26-Apr-2025 09:32:46 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[26-Apr-2025 09:32:46 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[26-Apr-2025 09:32:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 321
+[26-Apr-2025 09:32:46 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[26-Apr-2025 09:32:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 325
+[26-Apr-2025 09:32:46 UTC] PHP Warning:  Undefined variable $stats in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[26-Apr-2025 09:32:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kortekgsmdatalog/public_html/tcl/super_admin.php on line 329
+[26-Apr-2025 09:33:00 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:33:37 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC5\x9Fturu...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[26-Apr-2025 09:33:43 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC5\x9Fturu...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[26-Apr-2025 09:33:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kortekgsmdatalog/public_html/tcl/includes/header.php:66) in /home/kortekgsmdatalog/public_html/tcl/announcements.php on line 205
+[26-Apr-2025 09:34:09 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:34:14 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:34:59 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:35:00 UTC] Etiket eklenemedi: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[26-Apr-2025 09:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Document::setDocumentExpiryDate() in /home/kortekgsmdatalog/public_html/tcl/upload_document.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/kortekgsmdatalog/public_html/tcl/upload_document.php on line 104
+[26-Apr-2025 09:35:03 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:35:10 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:35:14 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:35:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kortekgsmdatalog/public_html/tcl/includes/header.php:66) in /home/kortekgsmdatalog/public_html/tcl/edit_document.php on line 128
+[26-Apr-2025 09:35:17 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:35:25 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:35:47 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[26-Apr-2025 09:35:55 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1
+[26-Apr-2025 09:36:12 UTC] PHP Deprecated:  Optional parameter $subcategoryId declared before required parameter $uploadedBy is implicitly treated as a required parameter in /home/kortekgsmdatalog/public_html/tcl/includes/Document.php on line 24
+[26-Apr-2025 09:36:25 UTC] Log kaydı eklenemedi: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect string value: '\xC4\xB1c\xC4\xB1 ...' for column `kortekgsmdatalog_tclkalibrasyon`.`activity_logs`.`description` at row 1

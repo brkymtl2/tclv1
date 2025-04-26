@@ -1,0 +1,81 @@
+/* Ana CSS Dosyası */
+
+body {
+    padding-bottom: 70px;
+    background-color: #f8f9fa;
+}
+
+/* Navbar stilleri */
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Kart stilleri */
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border-radius: 0.5rem;
+}
+
+.card-header {
+    border-top-left-radius: 0.5rem !important;
+    border-top-right-radius: 0.5rem !important;
+}
+
+/* Tablo stilleri */
+.table th {
+    background-color: #f8f9fa;
+}
+
+/* Form stilleri */
+.form-control:focus, .form-select:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+/* Dashboard ikonları */
+.dashboard-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #0d6efd;
+}
+
+/* Buton stilleri */
+.btn-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-icon i {
+    margin-right: 0.5rem;
+}
+
+/* Profil menüsü */
+.dropdown-menu {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+/* Footer stilleri */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+    z-index: 1000;
+}
+
+/* Belge kartları */
+.document-card {
+    transition: transform 0.2s;
+}
+
+.document-card:hover {
+    transform: translateY(-5px);
+}
+
+/* İkon stilleri */
+.bi {
+    margin-right: 0.25rem;
+}
